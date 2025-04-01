@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/chini007
   gitUsername: chini007
   gitBranch: dev
+- name: Supportpkg
+  gitServerName: srini_github
+  gitUrl: https://github.com/chini007
+  gitUsername: chini007
+  gitBranch: dev
